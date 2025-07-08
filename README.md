@@ -1,5 +1,2 @@
 # language
-https://github.com/melekhmashiach/language/blob/main/Benelux.PNG
-
-Image description
-![Test Image 1][https://raw.githubusercontent.com/melekhmashiach/language/refs/heads/main/Benelux.PNG]
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://raw.githubusercontent.com/melekhmashiach/language/refs/heads/main/Benelux.PNG)
